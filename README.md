@@ -125,8 +125,6 @@ npm hint .
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
-
 👤 **Ali Hassan**
 
 - GitHub: [@githubhandle](https://github.com/mhassa204)
