@@ -42,14 +42,7 @@ After you're finished please remove all the comments and instructions!
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
-  - [Setup](#setup)
-  - [Prerequisites](#prerequisites)
-  - [Install](#install)
-  - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -86,9 +79,9 @@ After you're finished please remove all the comments and instructions!
 
 ### Key Features <a name="key-features"></a>
 
-- **[Tile Added]**
-- **[Heading 1 added]**
-- **[header color red]**
+- **[Linters Added]**
+- **[HTML added]**
+- **[CSS added]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -130,7 +123,7 @@ Open a pull request.
 
 > Mention all of the collaborators of this project.
 
-👤 **Author1**
+👤 **Ali Hassan**
 
 - GitHub: [@githubhandle](https://github.com/mhassa204)
 - Twitter: [@twitterhandle](https://twitter.com/mahassa_n)
@@ -142,7 +135,7 @@ Open a pull request.
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[add structure]**
+- [ ] **[Add more content]**
 - [ ] **[change look and feel]**
 - [ ] **[make interactive]**
 
@@ -170,17 +163,13 @@ If you like this project...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
-
-I would like to thank to Microverse.
+I would like to thank to Github..
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FAQ (optional) -->
 
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
-
-> Add at least 2 questions new developers would ask when they decide to use your project.
 
 - **Q: How do I change the color of the header?**
 
